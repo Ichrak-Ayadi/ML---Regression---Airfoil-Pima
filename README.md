@@ -1,6 +1,8 @@
 # ML---Regression---Airfoil-Pima
 Linear &amp; logistic regression implemented from scratch on the Airfoil Self-Noise and PIMA Diabetes datasets.
 
+## Authors: Ichrak Ayadi & Yessine Mnif
+
 # Regression Models from Scratch
 
 Implementation of linear and logistic regression algorithms applied to two real-world prediction problems:
