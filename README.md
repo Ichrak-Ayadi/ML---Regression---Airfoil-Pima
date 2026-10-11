@@ -44,3 +44,6 @@ pressure, age, and other diagnostic measurements).
 ## Datasets
 - [Airfoil Self-Noise Dataset (NASA / UCI)](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise)
 - [PIMA Indians Diabetes Dataset](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database)
+
+## Authors
+Ichrak Ayadi & Yessine Mnif - ENIT
